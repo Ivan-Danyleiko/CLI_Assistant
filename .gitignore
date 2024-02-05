@@ -153,6 +153,10 @@ dmypy.json
 cython_debug/
 
 .idea
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7ecd31630e8bc4496f525fb38df1e3168985be80
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
